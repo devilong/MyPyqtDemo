@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dc07aa5-6918-4a71-b5a3-3c73b9625dab" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevelopDemo/develop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QWebEngineView/WebEngineDemo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QWebEngineView/WebEngineDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>QWebEngineView</find>
+      <find>Ui_MainWindow</find>
+      <find>renew_pushButton</find>
+      <find>renew_urlbar</find>
+      <find>QPrinter</find>
+      <find>QDialog</find>
+      <find>QtCore</find>
+      <find>information</find>
+      <find>c</find>
+      <find>closeEvent</find>
+      <find>demo_rc</find>
+      <find>QUrl</find>
+      <find>QWebEngineSettings</find>
+      <find>setAttribute</find>
+      <find>QWebEngineProfile</find>
+      <find>downloadRequested</find>
+      <find>QWebEngineDownloadItem</find>
+      <find>profile</find>
+      <find>runJavaScript</find>
+      <find>pagesou</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Qcombobox模板/QComboBoxDemo.py" />
+        <option value="$PROJECT_DIR$/QComboBox模板/QComboBoxDemo.py" />
+        <option value="$PROJECT_DIR$/QWebEngineView模板/WebEngineDemo.py" />
+        <option value="$PROJECT_DIR$/QWebEngineView模板/webdemo.py" />
+        <option value="$PROJECT_DIR$/fsdg.py" />
+        <option value="$PROJECT_DIR$/QWebEngineView/WebEngineDemo.py" />
+        <option value="$PROJECT_DIR$/QWebEngineView/webdemo.py" />
+        <option value="$PROJECT_DIR$/界面风格设置/windowsstyle.py" />
+        <option value="$PROJECT_DIR$/开发测试区/develop.py" />
+        <option value="$PROJECT_DIR$/QMainWindow/QMainWindowDemo2.py" />
+        <option value="$PROJECT_DIR$/主界面模板二/MainWindowDemo1.py" />
+        <option value="$PROJECT_DIR$/MainWindowDemos/MainWindowDemo1.py" />
+        <option value="$PROJECT_DIR$/MainWindowDemos/ui_uidemo1.py" />
+        <option value="$PROJECT_DIR$/QMainWindow/QMainWindowDemo1.py" />
+        <option value="$PROJECT_DIR$/QComboBox/QComboBoxDemo.py" />
+        <option value="$PROJECT_DIR$/QWebKit/webbrowser.py" />
+        <option value="$PROJECT_DIR$/QPrinter/QPrinterDemo.py" />
+        <option value="$PROJECT_DIR$/QWebEngineView/WebEngineDemo2.py" />
+        <option value="$PROJECT_DIR$/QMainWindow/QMainWindowDemo4.py" />
+        <option value="$PROJECT_DIR$/QMainWindow/QMainWindowDemo3.py" />
+        <option value="$PROJECT_DIR$/QMainWindow/QMainWindowDemo5.py" />
+        <option value="$PROJECT_DIR$/QTableWidget/QTableWidgetDemo1.py" />
+        <option value="$PROJECT_DIR$/QCompleter/QCompleterDemo.py" />
+        <option value="$PROJECT_DIR$/QProgressBar/QProgressBarDemo.py" />
+        <option value="$PROJECT_DIR$/DevelopDemo/develop.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="DevelopDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QComboBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QCompleter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QMainWindow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QPrinter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QProgressBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QTableWidget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QWebEngineView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QWebKit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPyqtDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPyqtDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="界面风格设置" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QWidget.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\pyqtstudydemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\pyqtstudydemo\QComboBox模板" />
+      <recent name="D:\PythonProject\pyqtstudydemo\主界面模板一" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.WebEngineDemo2">
+    <configuration name="QCompleterDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPyqtDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QCompleter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QCompleter/QCompleterDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QProgressBarDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPyqtDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QProgressBar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QProgressBar/QProgressBarDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebEngineDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPyqtDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QWebEngineView" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QWebEngineView/WebEngineDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebEngineDemo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPyqtDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QWebEngineView" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QWebEngineView/WebEngineDemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="develop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPyqtDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevelopDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevelopDemo/develop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.QCompleterDemo" />
+      <item itemvalue="Python.QProgressBarDemo" />
+      <item itemvalue="Python.WebEngineDemo2" />
+      <item itemvalue="Python.WebEngineDemo" />
+      <item itemvalue="Python.develop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WebEngineDemo2" />
+        <item itemvalue="Python.develop" />
+        <item itemvalue="Python.WebEngineDemo" />
+        <item itemvalue="Python.QProgressBarDemo" />
+        <item itemvalue="Python.QCompleterDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc07aa5-6918-4a71-b5a3-3c73b9625dab" name="Default" comment="" />
+      <created>1533179337044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533179337044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21564482" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.24684271" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005285" side_tool="true" weight="0.27784157" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/主界面模板一/mainform.ui" />
+    <entry file="file://$PROJECT_DIR$/主界面模板一/dataform.ui" />
+    <entry file="file://$PROJECT_DIR$/../hongruisoft/DevelopDemo/kaptcha.jpg" />
+    <entry file="file://$PROJECT_DIR$/../hongruisoft/DevelopDemo/fsdg.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QFrame.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QBoxLayout.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QHBoxLayout.py" />
+    <entry file="file://$PROJECT_DIR$/QWebEngineView/ui_mainwindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="67" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QTabWidget.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QAction.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtGui/QFont.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtGui/QTextDocument.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtPrintSupport.py" />
+    <entry file="file://$PROJECT_DIR$/界面风格设置/windowsstyle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="39" selection-start-line="39" selection-end-line="41" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevelopDemo/ui_developform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtCore/QUrl.py" />
+    <entry file="file://$PROJECT_DIR$/QWebKit/webbrowser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QWebEngineView/webdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3350">
+          <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QMessageBox.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QWidget.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QMainWindow.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWebEngineWidgets.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QLabel.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488/PyQt5/QtWidgets/QCompleter.py" />
+    <entry file="file://$PROJECT_DIR$/MainWindowDemos/ui_uidemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainWindowDemos/MainWindowDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMainWindow/QMainWindowDemo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QComboBox/QComboBoxDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QCompleter/QCompleterDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMainWindow/QMainWindowDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="46" selection-start-line="46" selection-end-line="47" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMainWindow/QMainWindowDemo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4375">
+          <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMainWindow/QMainWindowDemo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="80" selection-start-line="92" selection-end-line="108" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QPrinter/QPrinterDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QTableWidget/QTableWidgetDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMainWindow/QMainWindowDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="123" column="48" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QProgressBar/QProgressBarDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1553852422911" expanded="true" signature="884:1438" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevelopDemo/develop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QWebEngineView/WebEngineDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QWebEngineView/WebEngineDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
